@@ -6,6 +6,7 @@ const routes = [
 { path: '/', name: 'Home', component: Home },
 { path: '/books', name: 'Books', component: Books },
 { path: '/contact', name: 'Contact', component: Contact },
+{ path: '/hello', name: 'HelloWorld', component: HelloWorld}
 ]
 const router = createRouter({
 history: createWebHistory(),
