@@ -1,0 +1,53 @@
+/* style.css (Globális stílusok) */
+
+/* --- 1. CSS Változók --- */
+:root {
+  --color-primary: #0288d1;       /* Mélykék (Fő akciós szín, gombok) */
+  --color-secondary: #ffb300;     /* Sárga/narancs (Kiemelés) */
+  --color-text-dark: #333333;     /* Sötét szöveg */
+  --color-price: #c62828;         /* Ár piros */
+  --color-bg-light: #f4f4f4;      /* Világos háttér (a content wrapper mögött) */
+}
+
+/* --- 2. Alapvető Reset és Typográfia --- */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  /* Itt választhatsz egy betűtípust, ami hasonlít az eredetihez */
+  font-family: 'Open Sans', Arial, sans-serif;
+  line-height: 1.6;
+  color: var(--color-text-dark);
+  background-color: #ffffff; /* Fehér háttér */
+}
+
+/* --- 3. Linkek Stílusa --- */
+a {
+  color: var(--color-primary);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+a:hover {
+  color: var(--color-secondary);
+}
+
+/* --- 4. Globális Elrendezés (kiegészítés az App.vue-hoz) --- */
+#app {
+    /* Biztosítja, hogy az alkalmazás kitöltse az egész nézetmagasságot */
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* A fő tartalom konténerének stílusa */
+.content-wrapper {
+    flex-grow: 1; 
+    width: 95%; /* Kicsit több hely az oldal szélén */
+    max-width: 1200px;
+    margin: 20px auto;
+    background-color: white;
+}
