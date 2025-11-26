@@ -2,6 +2,8 @@
 
 ### Egy glitch-es felirat kódolása vue keretrendszer használatával
 
+(A TypeScript rész a verziószámok miatt nem jó)
+
 A projekt létrehozása:
 ```
 npm create vite@latest glitch-vue-app -- --template vue
@@ -17,3 +19,4 @@ Ezután:
 npm install
 npm run dev
 ```
+
