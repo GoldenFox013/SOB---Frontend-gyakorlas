@@ -1,4 +1,5 @@
-# Oldal másolás házi feladat
+# Házi feladatok mappája
 
-Ebben a projektben egy könyves weboldalt másoltam le, melynek eredeti linkre a következő:  
-[Libristo](https://www.libristo.hu/hu)
+### Ide fogom gyűjteni az otthon készített házikat/szorgalmikat, időszakokra bontva
+
+Dátumozást itt nem fogok tudni használni, de a fájlok feltöltésekor illetve módosításakor a GitHub rögzíti a dátumot.

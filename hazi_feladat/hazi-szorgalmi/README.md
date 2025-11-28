@@ -1,5 +1,6 @@
-# Vue 3 + Vite
+# Oldal másolása házi feladat
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Ebben a projektben egy könyves weboldalt másoltam le, melynek eredeti linkje a következő:  
+[Libristo](https://www.libristo.hu/hu)
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+A komponensekben található header, footer, main content és az azon belül használt card-ok. A képek adatainak forrásai a MainContent.vue-ban találhatóak.
