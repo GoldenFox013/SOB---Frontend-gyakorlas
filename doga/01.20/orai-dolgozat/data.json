@@ -1,0 +1,60 @@
+{
+  "flowers": [
+    {
+      "id": 1,
+      "name": "Piros rózsa",
+      "price": 4990,
+      "imageUrl": "https://render.fineartamerica.com/images/rendered/default/poster/5.5/8/break/images/artworkimages/medium/2/red-rose-iwan-tirtha.jpg",
+      "description": "Klasszikus piros rózsa ajándékozásra."
+    },
+    {
+      "id": 2,
+      "name": "Sárga napraforgó",
+      "price": 3590,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg",
+      "description": "Vidám napraforgó csokor nyári hangulathoz."
+    },
+    {
+      "id": 3,
+      "name": "Fehér liliom",
+      "price": 4590,
+      "imageUrl": "https://www.botanikaland.hu/botanica/feher-liliom/1.jpg",
+      "description": "Elegáns fehér liliom ünnepi alkalmakra."
+    },
+    {
+      "id": 4,
+      "name": "Rózsaszín tulipán",
+      "price": 3990,
+      "imageUrl": "https://theprestigeroses.hu/wp-content/uploads/2021/01/box_800_s_tulipan_pink_vilagos_3.jpg",
+      "description": "Tavaszi rózsaszín tulipán csokor."
+    },
+    {
+      "id": 5,
+      "name": "Kék ibolya",
+      "price": 2990,
+      "imageUrl": "https://amikert.hu/wp-content/uploads/img/kek-ibolya.webp",
+      "description": "Finom illatú ibolya kis csokorban."
+    },
+    {
+      "id": 6,
+      "name": "Rózsaszín hortenzia",
+      "price": 4290,
+      "imageUrl": "https://megyeri.cdn.shoprenter.hu/custom/megyeri/image/data/product/cserje/hydrangea/macrophylla/hydrangea_macrophylla_pretty_pink_kerti_hortenzia.jpg.webp?lastmod=1711429023.1698923164",
+      "description": "Dús virágzatú hortenzia dekorációhoz."
+    },
+    {
+      "id": 7,
+      "name": "Levendula",
+      "price": 3190,
+      "imageUrl": "https://naturland.hu/wp-content/uploads/2023/06/42588789_m_normal_none.jpg",
+      "description": "Illatos levendula csokor természetes hangulathoz."
+    },
+    {
+      "id": 8,
+      "name": "Mezei virágcsokor",
+      "price": 3390,
+      "imageUrl": "https://i.pinimg.com/736x/3d/68/6e/3d686e8c92972eaf1a7aae16d013ae47.jpg",
+      "description": "Színes mezei virágok vegyes csokra."
+    }
+  ]
+}

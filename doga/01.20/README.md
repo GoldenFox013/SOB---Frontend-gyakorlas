@@ -1,0 +1,1 @@
+# Félév zárásához szükséges doga
